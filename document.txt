@@ -1,0 +1,20 @@
+
+
+
+
+Uygulama Özellikleri
+
+Hava durumunu görüntülenebilir.
+Döviz kurları görüntülenebilir.
+Sol bölümden arama yapabilirsiniz.
+Her aramada ilk önce aradığınız kelimeye ait wikipedia sonucunu göreceksiniz.
+Arama yaptıktan sonra linki tarayıcıda açabilirsiniz.
+
+Nasıl Arama Yapılır?
+
+Sol bölümde arama bölümüne aramak istediğiniz herhangi bir şeyi yazıp 'ara' butonuna tıklayarak aradığınız şeye ait sayfa başlıklarına ve linklerine ulaşabilirsiniz.
+Ardından dilediğiniz aramanın üzerine çift tıklayıp sayfanın detaylarının gösterilmesini sağlayabilirsiniz.
+Daha detaylı gösterim için 'Tarayıcıda Aç' butonunu kullanabilirsiniz.
+
+Not:
+Bu uygulama tamamen deneme ve gelişim amaçlı yapılmıştır.
